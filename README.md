@@ -7,7 +7,8 @@
 q: 뭐 하는 놈인지<br>
 cs 개발이나 테라리아 모딩하는 사람이에요<br><br>
 q: 다룰 수 있는 언어<br>
-c 형제들 (c, cpp, cs) 이나 java와 py 그리고... 약간의 js?<br><br>
+c 형제들 (c, cpp, cs) 이나 java와 py 그리고... 약간의 js?<br>
+그래도 최애는 cs임<br><br>
 q: 쓰는 프로그램<br>
 visual studio (code 아님) 와 tmodloader 정도
 </p></h6>
