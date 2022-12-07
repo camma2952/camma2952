@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align=center>캐마깃헙!</h1>
 
-<!--
-**camma2952/camma2952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h6><p align=center>
+내 작업파일들 볼 수 있는 유일한 공간임<br>
+열심히 cs과 테라리아 모딩을 하는 중입니다<br>
+잘되기만 바랄 뿐<br><br>
+q: 뭐 하는 놈인지<br>
+cs 개발이나 테라리아 모딩하는 사람이에요<br><br>
+q: 다룰 수 있는 언어<br>
+c 형제들 (c, cpp, cs) 이나 java와 py 그리고... 약간의 js?<br><br>
+q: 쓰는 프로그램<br>
+visual studio (code 아님) 와 tmodloader 정도
+</p></h6>
