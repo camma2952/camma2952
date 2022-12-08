@@ -10,5 +10,6 @@ q: 다룰 수 있는 언어<br>
 c 형제들 (c, cpp, cs) 이나 java와 py 그리고... 약간의 js?<br>
 그래도 최애는 cs임<br><br>
 q: 쓰는 프로그램<br>
-visual studio (code 아님) 와 tmodloader 정도
+대부분은 visual studio (code 아님) 임<br>
+그리고 모딩용 tmodloader
 </p>
